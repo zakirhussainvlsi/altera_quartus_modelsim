@@ -1,6 +1,5 @@
-# altera_quartus_modelsim
+# altera_quartus_modelsim download
 
-# altera_quartus_download
 <h3>Group-I files</h3>
 <ol>
  <li> 
